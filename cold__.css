@@ -1,0 +1,25 @@
+#drink {
+    position: relative;
+    top: 150px;
+    left: 350px;
+
+}
+
+#words{
+    position: relative;
+    bottom: 300px;
+    right: 250px;
+
+}
+
+#def {
+    position: absolute;
+}
+
+#one {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 150px;
+    left: 550px;
+}
