@@ -1,0 +1,34 @@
+body {
+    background:url(https://media.giphy.com/media/MEdoS5GtywN32/giphy.gif) 100%;
+    position: absolute;
+}
+
+#hc {
+    position: relative;
+    left:350px;
+
+}
+
+#fight {
+    position: absolute;
+    height: 800px;
+
+
+}
+
+#one {
+    position: relative;
+    left: 550px;
+    height: 200px;
+    width: 200px;
+
+}
+
+#two {
+    position: relative;
+    left: 550px;
+    height: 200px;
+    width: 200px;
+
+}
+
